@@ -19,6 +19,7 @@ The project includes creating a retail database, handling missing and inconsiste
 - Answer business questions using SQL queries
 
 ---
+P
 
 🛠️ Tools Used
 
