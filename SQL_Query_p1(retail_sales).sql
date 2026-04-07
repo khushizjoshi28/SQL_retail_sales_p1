@@ -149,7 +149,7 @@ LIMIT 5
 '''
 
 	
-##Findings
+## My Anaktsis & Findings
 
 - **Customer Demographics: The dataset includes customers from different age groups, with sales distributed across multiple product categories.
 
